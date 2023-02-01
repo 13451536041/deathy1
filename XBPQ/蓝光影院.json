@@ -4,7 +4,7 @@
   "主页url": "https://www.lgyy.tv",
   
   "分类": "电影$1#电视剧$2#综艺$3#动漫$5#纪录片$4",
-  
+  "搜索url": "https://www.lgyy.tv/vodsearch/{wd}----------{fypage}---.html",
   "分类url": "https://www.lgyy.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
   
   "副标题": "module-item-note\">&&</div>",
