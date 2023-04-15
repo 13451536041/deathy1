@@ -17,7 +17,7 @@
   "链接": "href=\"&&\"",
   
   "搜索模式": "1",
-  "搜索url": "/search.html?wd={wd}",
+  "搜索url": "https://www.fantuanhd.com/search.html?wd={wd}",
   "搜索后缀": "/detail/id-",
   "搜索数组": "stui-vodlist__box\">&&</a>",
   "搜索图片": "data-original=\"&&\"",
