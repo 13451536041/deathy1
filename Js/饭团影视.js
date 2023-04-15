@@ -16,7 +16,7 @@ var rule = {
         "tabs": ".stui-vodlist__head h3",
         "lists": ".stui-content__playlist:eq(#id) li"
     },
-    searchUrl:'https://www.fantuanhd.com/search/wd/**.html',
+    searchUrl:'/search.html?wd=**',
 	detailUrl:'/detail/id-fyid.html', //非必填,二级详情拼接链接
 	搜索:'json:list;name;pic;;id',
 }
